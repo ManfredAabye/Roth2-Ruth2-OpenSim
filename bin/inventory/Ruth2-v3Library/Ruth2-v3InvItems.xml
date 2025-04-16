@@ -1,0 +1,464 @@
+<Nini>
+  <Section Name="0d5a969d-b31f-722e-668f-aeb7609ff390_bodypart">
+    <Key Name="inventoryID" Value="c5c2219a-6424-4fa9-bd4f-72847a3563ae" />
+    <Key Name="assetID" Value="d9d20a74-2543-4fa1-9156-e6bcdb938959" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="0d5a969d-b31f-722e-668f-aeb7609ff390_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="2d1cc753-7a2f-1d58-7234-358f7df7199b_bodypart">
+    <Key Name="inventoryID" Value="de501bb7-dc7f-4e13-8878-48e1f5608341" />
+    <Key Name="assetID" Value="b17092d9-e3ca-47d0-9ab9-b4dede6d6d1a" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="2d1cc753-7a2f-1d58-7234-358f7df7199b_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="a32ebd20-f515-408a-91f2-efa9dea73196_script">
+    <Key Name="inventoryID" Value="2048acfe-d578-4392-bad5-a2a15dfc02d0" />
+    <Key Name="assetID" Value="64a74dab-4b8a-4395-8821-3c6d6c0989fc" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="a32ebd20-f515-408a-91f2-efa9dea73196_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="bdf7b7a4-36f5-4cbd-9434-290ec45a4218_script">
+    <Key Name="inventoryID" Value="53e896c4-58e0-44e0-ba02-ca42886143bc" />
+    <Key Name="assetID" Value="4dbdd6a1-1d30-4ebd-9ed0-10ba8eba9d18" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="bdf7b7a4-36f5-4cbd-9434-290ec45a4218_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="062237a0-0bc5-5df8-312f-a86a19a3c9c1_bodypart">
+    <Key Name="inventoryID" Value="fd27ff43-74e8-4b29-98d4-1a8d9825b474" />
+    <Key Name="assetID" Value="6dc44e43-0371-4457-8e8a-95784fb0a2a5" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="062237a0-0bc5-5df8-312f-a86a19a3c9c1_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="0fd76b2d-81af-2a80-dcbd-88a7eebde8c4_bodypart">
+    <Key Name="inventoryID" Value="1a717397-fb76-459b-bc89-1ed957d85fee" />
+    <Key Name="assetID" Value="17f444a1-d13b-43a1-9cc8-572669956911" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="0fd76b2d-81af-2a80-dcbd-88a7eebde8c4_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="e8668890-6e47-4470-af18-f57df44321e0_script">
+    <Key Name="inventoryID" Value="cc7a9513-b391-4536-af62-d315a116a940" />
+    <Key Name="assetID" Value="35cde3dc-cd14-4efa-bd32-855ebacad76e" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="e8668890-6e47-4470-af18-f57df44321e0_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="84ca3a8a-b73b-041d-34f3-78ec93d9bd24_notecard">
+    <Key Name="inventoryID" Value="24a0f609-bd8c-48cc-bedf-c5cc93f67d1e" />
+    <Key Name="assetID" Value="2a0e44f1-0f5a-4f64-94ce-616fd7cf2235" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="84ca3a8a-b73b-041d-34f3-78ec93d9bd24_notecard" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="582847ac-66ef-4f93-bfd6-1b60bf5fe4ec_script">
+    <Key Name="inventoryID" Value="77743e4f-9eb5-4a83-a32a-a52adb05c91e" />
+    <Key Name="assetID" Value="3fcb2e2b-39a6-4375-9e19-fc34c9e2f4d0" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="582847ac-66ef-4f93-bfd6-1b60bf5fe4ec_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="cabd367b-8d20-44b4-a436-14885561572a_script">
+    <Key Name="inventoryID" Value="69f14b9e-a390-4d92-ba61-6b4fc24acade" />
+    <Key Name="assetID" Value="65caef65-6e00-47e2-8e2f-6c298f7851d8" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="cabd367b-8d20-44b4-a436-14885561572a_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="33eca63c-4891-dacd-2e64-98bf45effd13_notecard">
+    <Key Name="inventoryID" Value="2d3def6f-1e17-4db7-aeed-551da175d2c3" />
+    <Key Name="assetID" Value="496dbecd-7edf-4830-b653-262029c3daab" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="33eca63c-4891-dacd-2e64-98bf45effd13_notecard" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="eee0b103-0536-999f-cf7e-0c2a9ab32f28_bodypart">
+    <Key Name="inventoryID" Value="30a1642f-9acd-4445-b12a-3396da0519db" />
+    <Key Name="assetID" Value="c8998dcf-a664-4d08-be24-1c1fc9b4a769" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="eee0b103-0536-999f-cf7e-0c2a9ab32f28_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="76ba6b1b-f69c-481f-8efa-0e8597737f77_script">
+    <Key Name="inventoryID" Value="4df31b9e-2387-419a-8800-eea55a8b23cf" />
+    <Key Name="assetID" Value="16c14dfa-b968-4bcb-83b8-27c94a9f823b" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="76ba6b1b-f69c-481f-8efa-0e8597737f77_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="f7d4883c-4c32-4150-beaf-5d53acca4796_script">
+    <Key Name="inventoryID" Value="2ebb18bf-ad27-40c5-ad8c-2a3fed4f470a" />
+    <Key Name="assetID" Value="1071ef8f-77cf-4b30-a350-4a1185ff167c" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="f7d4883c-4c32-4150-beaf-5d53acca4796_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="84d7e767-7b81-42f0-9c00-071c472f1561_script">
+    <Key Name="inventoryID" Value="4ee21534-9c2e-4214-9693-ae9ca2bcf198" />
+    <Key Name="assetID" Value="d5e716b8-725d-4096-8318-39fb68ab79e8" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="84d7e767-7b81-42f0-9c00-071c472f1561_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="65277868-2469-4210-b55a-65f01d98216d_script">
+    <Key Name="inventoryID" Value="cc3219ad-bb92-4f59-9412-2469e8ea0cf7" />
+    <Key Name="assetID" Value="483cc239-b11d-4bb0-b06c-51544f179517" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="65277868-2469-4210-b55a-65f01d98216d_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="473b8ab7-a054-ea3b-9195-3f11a61713b0_clothing">
+    <Key Name="inventoryID" Value="29f034d8-f458-4b46-9a6c-5a6d67c8ac5d" />
+    <Key Name="assetID" Value="3575f3e7-c1e5-49a3-be1b-c8b698f6fe21" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="473b8ab7-a054-ea3b-9195-3f11a61713b0_clothing" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="1b80e546-0c33-7e42-3529-7cf0f8aaabdf_notecard">
+    <Key Name="inventoryID" Value="e420dfbd-283f-48cb-b0ce-3508b8aca008" />
+    <Key Name="assetID" Value="f66f1349-b134-4995-94c0-e64be60e3a69" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="1b80e546-0c33-7e42-3529-7cf0f8aaabdf_notecard" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="9df3e524-9e35-d7fe-e98f-d27708f0b1fe_clothing">
+    <Key Name="inventoryID" Value="64b0934e-4e13-48cf-b1d3-e7e31ca38313" />
+    <Key Name="assetID" Value="8478f645-63c7-45b1-93ec-e0b43416757c" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="9df3e524-9e35-d7fe-e98f-d27708f0b1fe_clothing" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="35c3f349-7b68-b40a-45e7-454c0d8baa12_bodypart">
+    <Key Name="inventoryID" Value="d59a0bbb-219e-483c-893c-f0f65e85c988" />
+    <Key Name="assetID" Value="c838e4ee-a661-4314-a073-dd19c6ab069e" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="35c3f349-7b68-b40a-45e7-454c0d8baa12_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="4342789b-3597-477a-8eb4-e7bdf9d183f9_clothing">
+    <Key Name="inventoryID" Value="c9e082f3-cfa1-43bb-ba20-a7d3a6a6e9c2" />
+    <Key Name="assetID" Value="34009736-20cc-4ec2-8fe8-08fdf0d48bbb" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="4342789b-3597-477a-8eb4-e7bdf9d183f9_clothing" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="c3cb03bf-62b9-4e92-b648-d415cfb5d5f7_script">
+    <Key Name="inventoryID" Value="6928bc20-6e5d-4c94-be69-6a0b85a24497" />
+    <Key Name="assetID" Value="07a08560-e6c9-4c65-9758-76aeae039f68" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="c3cb03bf-62b9-4e92-b648-d415cfb5d5f7_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="6b739952-0f90-44a9-94ff-8a753fbea726_script">
+    <Key Name="inventoryID" Value="ab13320f-474b-4cd6-bd71-5fcf5113291c" />
+    <Key Name="assetID" Value="7183a720-d86c-40dc-a8c0-c85428c69e8b" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="6b739952-0f90-44a9-94ff-8a753fbea726_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="a6122f30-01e8-41f2-9857-05dc1717a1af_script">
+    <Key Name="inventoryID" Value="1cd2363a-fa69-4917-877a-d59d72e4c386" />
+    <Key Name="assetID" Value="0170cba3-9eec-4342-a369-477ab355f56f" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="a6122f30-01e8-41f2-9857-05dc1717a1af_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="7e91c2ba-e3e4-4884-9fa1-8391d0587c3e_script">
+    <Key Name="inventoryID" Value="500fef47-5066-4edd-8028-37888b475e0a" />
+    <Key Name="assetID" Value="c514cb3f-9b95-447b-a3f6-4d62605597d6" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="7e91c2ba-e3e4-4884-9fa1-8391d0587c3e_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="1bad7edc-fe04-480e-a536-383574c8a9cb_bodypart">
+    <Key Name="inventoryID" Value="f08efa8a-8780-4b0a-b326-fbb7c4935376" />
+    <Key Name="assetID" Value="6fec901f-8295-4f7f-a44e-0de49b7844ea" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="1bad7edc-fe04-480e-a536-383574c8a9cb_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="3e61d527-4561-4efe-a0d2-f68fba63a310_script">
+    <Key Name="inventoryID" Value="0bdc32e2-7a93-4a4c-82b2-a61b9cbde854" />
+    <Key Name="assetID" Value="b9c633c2-3c9f-4b87-8e83-894ec5a1b0e7" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="3e61d527-4561-4efe-a0d2-f68fba63a310_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="9c4f3a34-877d-1a25-2217-38bafa969ff4_notecard">
+    <Key Name="inventoryID" Value="50c18c05-4775-4ebd-8386-2c2a2b65685d" />
+    <Key Name="assetID" Value="6f314e6a-4520-4c79-bcb2-267fd19c16cc" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="9c4f3a34-877d-1a25-2217-38bafa969ff4_notecard" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="e0063c71-8dfe-091a-ba61-de83567343bf_notecard">
+    <Key Name="inventoryID" Value="d4812df8-caac-4b95-8560-008ba1428eb1" />
+    <Key Name="assetID" Value="037e9f5c-71b6-49c1-a75c-0a19a8a73eb6" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="e0063c71-8dfe-091a-ba61-de83567343bf_notecard" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="b7cfdfdb-76d4-4496-9c16-3077c7abd551_script">
+    <Key Name="inventoryID" Value="c5525f35-2f48-427a-ba4c-be9081a1a48c" />
+    <Key Name="assetID" Value="b1831b8b-8416-40da-8d0c-679de2bae6a4" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="b7cfdfdb-76d4-4496-9c16-3077c7abd551_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="b23ad219-873e-9f37-e1b3-9aef27766b7b_bodypart">
+    <Key Name="inventoryID" Value="cb59454e-e4a4-4fa6-be6f-9cf76819db20" />
+    <Key Name="assetID" Value="321a8c00-ab27-403a-9a41-66a925af8a6e" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="b23ad219-873e-9f37-e1b3-9aef27766b7b_bodypart" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="7" />
+    <Key Name="inventoryType" Value="7" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="d46d3aad-85ea-4f1c-b046-7b700d00d7c2_script">
+    <Key Name="inventoryID" Value="60833481-d502-4ced-967b-5f7fa5bad20b" />
+    <Key Name="assetID" Value="f3b922dd-858b-4d37-8b5c-ab79acf757af" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="d46d3aad-85ea-4f1c-b046-7b700d00d7c2_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+  <Section Name="173b2b78-968c-4711-a2d0-e4c4650726ef_script">
+    <Key Name="inventoryID" Value="6b7fae1d-5afa-4835-bd2a-83836a87eb45" />
+    <Key Name="assetID" Value="38220c08-f89f-40d6-9b45-dfe695a004e4" />
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="name" Value="173b2b78-968c-4711-a2d0-e4c4650726ef_script" />
+    <Key Name="description" Value="" />
+    <Key Name="assetType" Value="10" />
+    <Key Name="inventoryType" Value="10" />
+    <Key Name="currentPermissions" Value="2147483647" />
+    <Key Name="nextPermissions" Value="2147483647" />
+    <Key Name="everyonePermissions" Value="2147483647" />
+    <Key Name="basePermissions" Value="2147483647" />
+  </Section>
+
+</Nini>

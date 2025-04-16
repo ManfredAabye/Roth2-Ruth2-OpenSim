@@ -1,0 +1,9 @@
+<Nini>
+  <Section Name="Ruth2-v3">
+    <Key Name="folderID" Value="b8eaecb0-08c9-42b9-9be5-375d20ed48b7" />
+    <Key Name="parentFolderID" Value="00000112-000f-0000-0000-000100bba000" />
+    <Key Name="name" Value="Ruth2-v3" />
+    <Key Name="type" Value="-1" />
+  </Section>
+
+</Nini>
